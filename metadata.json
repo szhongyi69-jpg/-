@@ -1,0 +1,6 @@
+{
+  "name": "Global Spirits Explorer",
+  "description": "A premium global dictionary, interactive culture explorer, and Gemini-powered smart assistant for world spirits, wines, whiskies, and traditional alcoholic beverages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
